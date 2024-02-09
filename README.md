@@ -1,6 +1,6 @@
 # Weather App with API
 # Overview:
-This repository contains a simple and intuitive weather application that leverages a third-party API to provide real-time weather information. The app allows users to access current weather conditions, forecasts, and other relevant details for a given location.
+This repository contains a simple and intuitive weather application that leverages a third-party API to provide real-time weather information. The app allows users to access current weather conditions and other relevant details for a given location.
 
 # Features:
 Current Weather: Get up-to-date information on the current weather conditions for a specific location.
