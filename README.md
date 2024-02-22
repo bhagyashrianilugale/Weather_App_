@@ -17,5 +17,4 @@ Frontend: The user interface is built with react, providing an interactive and r
 # Author:
 Bhagyashri Ugale Email: bhagyashriugale6970@gmail.com
 
-# Link:
-url: 
+
